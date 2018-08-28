@@ -1,6 +1,6 @@
 const version_name = {
-    firmware:"firmware-upgrade-v1.0.4.bin",
-    hash:"61082f8335432fd61628d7fcff1fafd6fbf0b5ef598b0a1f0ec856d2268f00aa",
+    firmware:"firmware-upgrade-v1.0.5.bin",
+    hash:"90247e4d88b3a5a8a831cd78959698941986a81b075becac59e26bee97acbc1e",
     bridge_linux64:"justsafe-bridge_1.0.0_amd64.deb",
     bridge_mac:"justsafe-bridge-1.0.0.pkg",
     bridge_win:"justsafe-bridge-1.0.0-win32-install.exe",
